@@ -1,0 +1,33 @@
+_repo: Ploughshare-and-Pruning-Hook-Ten-Lectures-on-Social-Subjects_66101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Housman, Laurence
+    aliases:
+    - Housman, Lawrence
+    - Bunny, Benjamin
+    birthdate: 1865
+    deathdate: 1959
+    gutenberg_agent_id: '1218'
+    url: http://www.gutenberg.org/2009/agents/1218
+    wikipedia: https://en.wikipedia.org/wiki/Laurence_Housman
+description: ''
+gutenberg_issued: '2021-08-21'
+identifiers:
+  gutenberg: '66101'
+  lccn: '21005870'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social sciences'
+- !lcc 'H'
+- !lcsh 'Social ethics'
+- GITenberg
+tableOfContents: Great possessions -- Crime and punishment -- Christianity a danger
+  to the state -- The salt of the earth -- The rights of majorities -- Discreditable
+  conduct -- What is womanly? -- Use and ornament -- Art and citizenship -- Conscious
+  and unconscious immortality.
+title: 'Ploughshare and Pruning-Hook: Ten Lectures on Social Subjects'
+url: http://www.gutenberg.org/ebooks/66101
